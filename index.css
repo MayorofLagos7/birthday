@@ -4,14 +4,14 @@
 .gallery img{
 width: 100%;
 max-width: 350px;
-height:300px;
+height:450px;
 object-fit: cover;
 border-radius: 20px;
 }
 body{
     margin: 0;
     font-family: sans-serif;
-    background-color: #da4f89 ;
+    background-color: #d2065b ;
 
 }
 .header, h1{
